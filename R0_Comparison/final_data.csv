@@ -1,0 +1,55 @@
+regiao,pais,tipo,r0
+America do Norte,Estados Unidos,r0_null,2.22
+America do Norte,Estados Unidos,r0_china_cdc,2.47
+America do Norte,Canada,r0_null,2.17
+America do Norte,Canada,r0_china_cdc,2.76
+America do Norte,Mexico,r0_null,2.65
+America do Norte,Mexico,r0_china_cdc,1.80
+America Central,Antígua e Barbuda,r0_null,2.74
+America Central,Antígua e Barbuda,r0_china_cdc,2.16
+America Central,Bahamas,r0_null,2.92
+America Central,Bahamas,r0_china_cdc,2.24
+America Central,Belize,r0_null,3.48
+America Central,Belize,r0_china_cdc,1.70
+America Central,Costa Rica,r0_null,2.68
+America Central,Costa Rica,r0_china_cdc,1.96
+America Central,Republica Dominicana,r0_null,2.70
+America Central,Republica Dominicana,r0_china_cdc,1.85
+America Central,EL Salvador,r0_null,2.79
+America Central,EL Salvador,r0_china_cdc,1.87
+America Central,Guatemala,r0_null,3.58
+America Central,Guatemala,r0_china_cdc,1.46
+America Central,Haiti,r0_null,2.97
+America Central,Haiti,tipo,1.99
+America Central,Honduras,r0_null,3.22
+America Central,Honduras,r0_china_cdc,1.66
+America Central,Jamaica,r0_null,2.81
+America Central,Jamaica,r0_china_cdc,1.91
+America Central,Nicaragua,r0_null,3.27
+America Central,Nicaragua,r0_china_cdc,1.64
+America Central,Panama,r0_null,2.47
+America Central,Panama,r0_china_cdc,1.82
+America do Sul,Argentina,r0_null,2.33
+America do Sul,Argentina,r0_china_cdc,2.11
+America do Sul,Bolivia,r0_null,2.96
+America do Sul,Bolivia,r0_china_cdc,02.01
+America do Sul,Brasil,r0_null,2.79
+America do Sul,Brasil,r0_china_cdc,2.00
+America do Sul,Chile,r0_null,2.32
+America do Sul,Chile,r0_china_cdc,2.25
+America do Sul,Colombia,r0_null,2.68
+America do Sul,Colombia,r0_china_cdc,1.99
+America do Sul,Equador,r0_null,2.79
+America do Sul,Equador,r0_china_cdc,1.87
+America do Sul,Guiana,r0_null,3.12
+America do Sul,Guiana,r0_china_cdc,1.69
+America do Sul,Paraguai,r0_null,2.95
+America do Sul,Paraguai,r0_china_cdc,1.89
+America do Sul,Peru,r0_null,2.75
+America do Sul,Peru,r0_china_cdc,2.13
+America do Sul,Suriname,r0_null,2.35
+America do Sul,Suriname,r0_china_cdc,1.95
+America do Sul,Uruguai,r0_null,2.30
+America do Sul,Uruguai,r0_china_cdc,2.41
+America do Sul,Venezuela,r0_null,2.43
+America do Sul,Venezuela,r0_china_cdc,1.96
